@@ -6,3 +6,6 @@
 İlk önce Build RAG Locally with DeepSeek.ipynb adım adım çalıştırın.
 
 En sonunad finan_rag.py 
+
+
+Kaynak: https://github.com/laxmimerit/ollama-chatbot
